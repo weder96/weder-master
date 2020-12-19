@@ -7,7 +7,7 @@
   <img align="left" alt="weder96 | Twitter" width="21px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="weder96 Discord" width="21px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/iscord-round.svg" />
+  <img align="left" alt="weder96 Discord" width="21px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/discord.svg" />
 </a>
 
 <br />
