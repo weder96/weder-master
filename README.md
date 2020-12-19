@@ -1,7 +1,7 @@
 ### Hi there, I'm [Weder!](https://weder96.github.io) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/weder96/weder96/master/assets/codesandbox.svg" />
+<a href="https://codesandbox.io/u/weder96">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/codesandbox.png" />
 </a>
 <a href="https://twitter.com/anuraghazru">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/weder96/anuraghazra/weder96/assets/twitter.svg" />
