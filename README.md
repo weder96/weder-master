@@ -13,12 +13,12 @@
 <br />
 <br />
 
-Hi, I'm Weder, a passionate self-taught BackEnd and frontEnd web developer from Brazilian.
+Hi, I'm Weder, a passionate self-taught BackEnd(Java and Python) and frontEnd(React, Vue and Angular) web developer from Brazilian.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 👯 I’m looking to collaborate on 
+- 💬 Ask me about anything 
 
 **Languages and Tools:**  
 
@@ -28,14 +28,10 @@ Hi, I'm Weder, a passionate self-taught BackEnd and frontEnd web developer from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature
+Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature
 
 
 <a href="https://github.com/weder96/github-readme-stats">
