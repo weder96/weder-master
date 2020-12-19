@@ -1,13 +1,13 @@
 ### Hi there, I'm [Weder!](https://weder96.github.io) 👋
 
 <a href="https://codesandbox.io/u/weder96">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/codesandbox.png" />
+  <img align="left" alt="weder96| CodeSandbox" width="20px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/weder96/anuraghazra/weder96/assets/twitter.svg" />
+<a href="https://twitter.com/weder96">
+  <img align="left" alt="weder96 | Twitter" width="21px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/weder96/weder96/weder96/assets/discord-round.svg" />
+  <img align="left" alt="weder96 Discord" width="21px" src="https://raw.githubusercontent.com/weder96/weder-master/master/assets/iscord-round.svg" />
 </a>
 
 <br />
