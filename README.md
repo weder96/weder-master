@@ -46,7 +46,7 @@ Hi, I'm Weder, a passionate self-taught BackEnd and frontEnd web developer from 
 </a>
 
 <a href="https://github.com/weder96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=vue-app3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=vue-app3&theme=dark&show_icons=true" />
 </a>    
 <a href="https://github.com/weder96/weder96.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weder96&repo=weder96.github.io&theme=material-palenight" />
